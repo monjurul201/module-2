@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Sorts Mill Goudy', serif;
+    font-size: 30px;
+}
+h2{
+    font-family: 'Sorts Mill Goudy', serif;
+    
+}
+}
+.highlight-name{
+    color: orange;
+}
+.half-section{
+   float: left;
+    width: 35%;
+    margin: 5%;
+    padding: 1%;
+    
+}
+.half-section img{
+    width: 100%;
+}
+.first-banner{
+    background-image: url("imge/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 130px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:blueviolet;
+    padding: 10px 20px;
+    border-radius: 7px;
+    box-shadow: 10px 15px 20px gray;
+    color: white;
+    border: 1px solid blueviolet;
+    font-weight: 700;
+
+}
+.link-button:hover{
+    background-color:yellow;
+    color: blueviolet;
+
+}
+.Dream-area{
+    background-image: url("imge/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    height: 250px;
+    background-color: white;
+}
+#first{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon, tomato );
+    border-image-slice: 1;
+
+
+}
+#second{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan );
+    border-image-slice: 1;
+}
+#foot{
+    text-align:center;
+    font-size: 10px;
+}
