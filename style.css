@@ -8,6 +8,7 @@ h1{
 }
 h2{
     font-family: 'Sorts Mill Goudy', serif;
+    color: orange;
     
 }
 
@@ -71,7 +72,7 @@ section{
     border-image: linear-gradient(180deg,blue,cyan );
     border-image-slice: 1;
 }
-#foot{
+.foot{
     text-align:center;
     font-size: 10px;
 }
